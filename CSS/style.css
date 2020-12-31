@@ -1,0 +1,25 @@
+{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+.button{
+	position: center;
+	top: 60%;
+	left: 50%;
+	transform: tranlate(-50%,-50%);
+}
+
+.btn{
+	border: 2px solid #ff6f6f;
+	padding: 10px 30px;
+	color: #523E7c;
+	text-decoration: none;
+	transition; 0.6s ease
+}
+
+.btn: hover{
+	background-color: #ec3939;
+	color: #f2b91f;
+}

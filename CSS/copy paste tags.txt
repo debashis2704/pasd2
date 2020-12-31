@@ -1,0 +1,11 @@
+file:///C:/Users/debas/Desktop/project%20wesite/
+<link rel="stylesheet" type="text/css" href="CSS/style.css">
+<font Color="red" Size="20"><strong><a href="micro controler based project.html">1.Micro Controller Based Project</a></strong></font> <br>
+background="bgimg3.png"
+<p>1.Proposal</p>
+<p>2.Implementation</p>
+<p>3.Requirement Analysis</p>
+<p>3.1.Hardware Specification</p>
+<p>3.2. Software Specification</p>
+<p>4.Software Specification</p><br>
+<hr>
